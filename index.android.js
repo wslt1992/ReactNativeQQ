@@ -18,7 +18,7 @@ class QQLogin extends Component {
   }
 
   render() {
-    return (
+    return (   
       <View style={{flex: 1,marginLeft:5,marginTop:30,marginRight:5}}>
         <Text style={styles.text}>我的QQ</Text>
           {/* 头像 */}
